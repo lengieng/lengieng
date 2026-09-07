@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lengieng/lengieng/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lengieng/lengieng/output/github-snake.svg">
+    <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/lengieng/lengieng/output/github-snake.svg">
+  </picture>
+</p>
+
 <!--
 **lengieng/lengieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
